@@ -59,6 +59,7 @@ convert img
 
 `sudo qemu-img convert -f qcow2 rhel9-kvm.qcow2 rhel9custom.vdi`
 
+*im not using variables in this project because its a local build*
 ## LINKS
 
 links helpfull
